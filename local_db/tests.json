@@ -1,0 +1,22 @@
+{
+   "data": [
+      {
+         "query": "FDX1 is directly targeted by Elesclomol",
+         "sol": "Mitochondrial metabolism promotes adaptation to proteotoxic stress",
+         "year": 2019,
+         "id": 331018397801492447
+      },
+      {
+         "query": "Ferroptosis and Apoptosis are interconnected",
+         "sol": "BAX-dependent mitochondrial pathway mediates the crosstalk between ferroptosis and apoptosis",
+         "year": 2020,
+         "id": 309456899531188519
+      },
+      {
+         "query": "Copper inhibits FDX1-mediated protein lipoylation",
+         "sol": "Copper induces cell death by targeting lipoylated TCA cycle proteins",
+         "year": 2022,
+         "id": 110732881155336992
+      }
+   ]
+}
